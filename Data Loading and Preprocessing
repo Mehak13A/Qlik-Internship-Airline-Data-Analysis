@@ -157,3 +157,5 @@ LOAD
     [Pilot Name],
     [Flight Status]
 WHERE NOT ([Arrival Airport] = '0' OR [Arrival Airport] = '-');
+
+
