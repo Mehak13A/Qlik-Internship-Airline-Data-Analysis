@@ -14,9 +14,9 @@ Airlines seek to improve passenger experience by understanding customer preferen
 
 ### DATASET LINK - **[https://drive.google.com/drive/u/1/search?q=airline%20dataset](https://drive.google.com/file/d/17vdTsRJaBSvoi9GP5vS8VmlFJtpD0NQm/view?usp=sharing)**
 
-### Dataset Loading in Qlik Sense: https://fxiculp5kb2zxqx.sg.qlikcloud.com/sense/app/4256ce68-3e1a-40e5-91e2-5ab70cfa4661/datamanager/datamanager
+### 1. Dataset Loading in Qlik Sense: https://fxiculp5kb2zxqx.sg.qlikcloud.com/sense/app/4256ce68-3e1a-40e5-91e2-5ab70cfa4661/datamanager/datamanager
 
-### Data Preprocessing:
+### 2. Data Preprocessing:
 **Main File:**
 SET ThousandSep=',';
 SET DecimalSep='.';
