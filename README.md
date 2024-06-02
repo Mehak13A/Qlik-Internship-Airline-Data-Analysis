@@ -1,6 +1,7 @@
 # Qlik-Internship-Airline-Data-Analysis
 
-## Project Description: The project "Exploring Insights from Synthetic Airline Data Analysis with Qlik" involves utilizing synthetic airline data to derive valuable insights using Qlik, a business intelligence and data visualization tool. This project uses synthetic airline data to simulate flight schedules, passenger demographics, ticket sales, and performance metrics. The goal is to leverage Qlik's analytical tools to find patterns, trends, and correlations to aid decision-making for airlines and airports.
+## Project Description: 
+The project "Exploring Insights from Synthetic Airline Data Analysis with Qlik" involves utilizing synthetic airline data to derive valuable insights using Qlik, a business intelligence and data visualization tool. This project uses synthetic airline data to simulate flight schedules, passenger demographics, ticket sales, and performance metrics. The goal is to leverage Qlik's analytical tools to find patterns, trends, and correlations to aid decision-making for airlines and airports.
 
 **Scenario 1: Revenue Optimization**
 An airline wants to boost revenue by analyzing historical ticket sales to identify peak travel times, popular destinations, and effective pricing strategies. Using Qlik, they can visualize revenue trends, segment customers by buying behavior, and adjust prices to maximize profits.
