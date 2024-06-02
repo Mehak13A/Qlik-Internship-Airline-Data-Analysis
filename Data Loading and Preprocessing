@@ -158,5 +158,4 @@ LOAD
     [Flight Status]
 WHERE NOT ([Arrival Airport] = '0' OR [Arrival Airport] = '-');
 
-
-Along with this, I amde changes to the Dataset where I replaced the name of countries with invalid delimiters and names.
+Preprocessed Dataset: https://drive.google.com/file/d/1SZhyNHDAgkogmDu-Za_Set_yBvBMAVUW/view?usp=sharing
