@@ -183,3 +183,11 @@ Total 15 visualisations have been created and put together into a pdf: **https:/
 ### 4. PDF file consisting the Dashboards, Story, Preprocessing of Data: 
 Total of 3 dashboards, A story with 3 slides and the preprocessing of data has been combined into a pdf:
 **https://drive.google.com/file/d/1QPFS_u2csrWRr1pklPNl4w_8zvqW-tRC/view?usp=sharing**
+
+### 5. Performance Testing:
+The combined PDF consists screenshots of,
+a. Amount of Data loaded into Qlik
+b. Data Cleaning and Preprocessing
+c. Filters added to the Visualisation Dashboards
+d. Number of Visualisations - 15
+**https://drive.google.com/file/d/1mq6Z-sp7Xm7lwHoMTtt_K_9RSomE8bBc/view?usp=sharing**
