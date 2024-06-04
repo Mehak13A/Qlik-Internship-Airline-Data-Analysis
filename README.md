@@ -177,3 +177,4 @@ LOAD
     [Flight Status]
 WHERE NOT ([Arrival Airport] = '0' OR [Arrival Airport] = '-');
 
+### PDF file consisting the Dashboards, Story, Preprocessing of Data: https://drive.google.com/file/d/1QPFS_u2csrWRr1pklPNl4w_8zvqW-tRC/view?usp=sharing
