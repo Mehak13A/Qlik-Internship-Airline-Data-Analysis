@@ -177,4 +177,9 @@ LOAD
     [Flight Status]
 WHERE NOT ([Arrival Airport] = '0' OR [Arrival Airport] = '-');
 
-### PDF file consisting the Dashboards, Story, Preprocessing of Data: https://drive.google.com/file/d/1QPFS_u2csrWRr1pklPNl4w_8zvqW-tRC/view?usp=sharing
+### 3. Data Visualisation Outputs:
+Total 15 visualisations have been created and put together into a pdf: **https://drive.google.com/file/d/1qOKUBlFpQBoWPPOH1jD_B5VoIjs4M2CX/view?usp=sharing**
+
+### 4. PDF file consisting the Dashboards, Story, Preprocessing of Data: 
+Total of 3 dashboards, A story with 3 slides and the preprocessing of data has been combined into a pdf:
+**https://drive.google.com/file/d/1QPFS_u2csrWRr1pklPNl4w_8zvqW-tRC/view?usp=sharing**
